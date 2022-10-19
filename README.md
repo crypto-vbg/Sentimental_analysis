@@ -10,7 +10,12 @@ We have used Naive Bayes model for the prediction of the text. For classifing th
 ## Building the project locally
 You can use jupyter notebook, or kaggle or google Collab.
 `pip install jupyter notebook` can be used for downloading jupyter notebook
-Note: python must be installed for the command to work
+Note: python must be installed for the command to work.
+Other libraries if need:
+1. `pip install numpy`
+2. `pip install pandas`
+3. `pip install sklearn`
+4. `pip install matplotlib`
 
 ## Maintaners
 Arnav Kumar: https://github.com/ArnavKumar7
