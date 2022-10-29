@@ -16,7 +16,3 @@ Other libraries if need:
 2. `pip install pandas`
 3. `pip install sklearn`
 4. `pip install matplotlib`
-
-## Maintaners
-Arnav Kumar: https://github.com/ArnavKumar7
-Vijith BG: https://github.com/crypto-vbg
